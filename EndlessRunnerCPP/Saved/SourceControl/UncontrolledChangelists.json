@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_RunCharacter.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_RunGameMode.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_ColliderActor.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Y1/2GJN1BVU7N9NTS45Q3IITW.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZE/Y3U9A4RF1GDJ7HJC2TBAXB.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_RunCharacterController.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_FloorTile.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/RunLevel.umap",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_Obstacle.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_RockObstacle.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_CoinPickup.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/WBP_RunWidget.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/AnimBP_RunCharacter.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BS_RunCharacter.uasset",
+				"C:/Users/12035382/Documents/SY2425T2_GAMPRG2_TGD1_Glinoga_MelKester/EndlessRunnerCPP/Content/RunLevel.umap",
+				"D:/St. Benilde/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/RunController/IA_RunForward.uasset",
+				"D:/St. Benilde/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/RunController/IA_RunRight.uasset",
+				"D:/St. Benilde/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/RunController/IMC_RunChar.uasset",
+				"D:/St. Benilde/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_RunCharacterController.uasset",
+				"D:/St. Benilde/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/BP_RunGameMode.uasset",
+				"C:/Users/12035382/Documents/233_gamprg2_xtie1_glinoga_melkester/EndlessRunnerCPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VH/TG7H108AQV35L8Q1J3N774.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/EndlessRunner/RunCharacter/BP_DemoPawn.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2R/E427D2LHEXVYNGO2GVGR2A.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/BP_RunCharacter.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VH/TG7H108AQV35L8Q1J3N774.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/BP_DemoPawn.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/BP_RunGameMode.uasset",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/12035382/Documents/Unreal Projects/EndlessRunnerCPP/Content/RunLevel.umap"
+			]
+		}
+	]
+}
